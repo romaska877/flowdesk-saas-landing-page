@@ -28,7 +28,7 @@ A modern responsive SaaS landing page built with HTML, CSS and JavaScript.
 
 ## Live Demo
 
-Coming soon.
+https://romaska877.github.io/flowdesk-saas-landing-page/
 
 ## Project Purpose
 
